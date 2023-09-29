@@ -1,9 +1,4 @@
 As a data scientist working for an investment firm, you will extract the revenue data for Tesla and GameStop and build a dashboard to compare the price of the stock vs the revenue. 
-Review criteria
-less 
-Full Points: Working code that yields correct results
-
-You will be graded on the dashboards displaying the specified data and the screenshots you took during the final project lab questions. There are 12 possible points for this assignment. Here is the breakdown:
 
 Question 1 - Extracting Tesla Stock Data Using yfinance - 2 Points
 
